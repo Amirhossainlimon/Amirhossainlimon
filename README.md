@@ -4,6 +4,12 @@
 🚀 Flutter Developer | Mobile App Developer | CSE Student
 </h3>
 
+
+<p align="center">
+  <img src="assets/profile-cartoon.png" width="400"/>
+</p>
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+Developer;Dart+Developer;Firebase+Enthusiast;REST+API+Integration;GetX+%26+Provider+User;Building+Beautiful+Apps"/>
 </p>
@@ -17,6 +23,7 @@
 ---
 
 ## 🚀 About Me
+
 
 ```dart
 class FlutterDeveloper {
@@ -42,13 +49,15 @@ class FlutterDeveloper {
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
+
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,git,github,figma,postman,mysql,c,cpp&perline=7"/>
 
 </p>
+
 
 <p align="center">
 
@@ -58,27 +67,32 @@ class FlutterDeveloper {
 
 <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CodeBlocks-0A66C2?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </p>
 
-📱 Flutter Projects
-Project	Description
-🚀 BMI Calculator App	Flutter UI + Logic
-💬 Chat Application UI	Modern Messaging Interface
-📝 Flashcard Quiz App	Interactive Quiz Application
-📖 Quote Vault App	Quote Management App
-✈️ Travel UI App	Responsive Flutter UI
-🛒 E-Commerce UI	Shopping App Design
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true"/> </p>
-🔥 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight"/>
-</p>
-🐍 Contribution Snake Animation
-<p align="center"> <img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg"/> </p>
-💻 Development Setup
+
+---
+
+# 📱 Flutter Projects
+
+
+| Project | Description |
+|---|---|
+| 🚀 BMI Calculator | Flutter UI + Logic |
+| 💬 Chat Application | Modern Chat UI |
+| 📝 Flashcard Quiz App | Interactive Quiz App |
+| 📖 Quote Vault | Quote Management App |
+| ✈️ Travel UI | Responsive Flutter Design |
+| 🛒 E-Commerce UI | Shopping App Design |
+
+
+---
+
+# 💻 Development Setup
+
+
+```yaml
 Mobile Development:
   - Flutter
   - Dart
@@ -94,7 +108,7 @@ IDE:
   - VS Code
   - CodeBlocks
 
-Programming Language:
+Programming:
   - Java
   - C
   - C++
@@ -107,15 +121,91 @@ Tools:
 
 Database:
   - MySQL
+```
 
 
-🌐 Connect With Me
+---
 
-<p align="center"> <a href="https://github.com/Amirhossainlimon"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="https://myportfolio-nine-tau-24.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5C22?style=for-the-badge&logo=vercel"/> </a> </p>
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amirhossainlimon&label=Profile%20Views&color=blue&style=for-the-badge"/> </p>
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🔥 Most Used Languages
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🐍 Contribution Snake Animation
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
+---
+
+# 🌐 Connect With Me
+
+
+<p align="center">
+
+<a href="https://github.com/Amirhossainlimon">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+<a href="https://myportfolio-nine-tau-24.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-FF5C22?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
+
+
+---
+
+# 👀 Profile Views
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Amirhossainlimon&style=for-the-badge"/>
+
+</p>
+
+
+---
+
 <h3 align="center">
 
 ⭐ Code • Create • Learn • Repeat ⭐
 
-</h3> ```
+</h3>
