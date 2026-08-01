@@ -44,8 +44,24 @@ class FlutterDeveloper {
 
 ## 🛠️ Tools & Technologies
 
+<p align="center">
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,git,github,figma,postman,mysql,c,cpp&perline=7"/> </p> <p align="center"> <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/CodeBlocks-0A66C2?style=for-the-badge&logo=cplusplus&logoColor=white"/> </p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,git,github,figma,postman,mysql,c,cpp&perline=7"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CodeBlocks-0A66C2?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+
+</p>
+
 📱 Flutter Projects
 Project	Description
 🚀 BMI Calculator App	Flutter UI + Logic
