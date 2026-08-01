@@ -1,0 +1,33 @@
+
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<text x="30" y="40" fill="white" font-size="24">
+🔥 Most Used Languages
+</text>
+
+    <text x="30" y="80" fill="white" font-size="18">
+    C++: 40.4%
+    </text>
+    
+    <text x="30" y="115" fill="white" font-size="18">
+    CMake: 29.5%
+    </text>
+    
+    <text x="30" y="150" fill="white" font-size="18">
+    Dart: 18.1%
+    </text>
+    
+    <text x="30" y="185" fill="white" font-size="18">
+    HTML: 3.2%
+    </text>
+    
+    <text x="30" y="220" fill="white" font-size="18">
+    Java: 2.8%
+    </text>
+    
+    <text x="30" y="255" fill="white" font-size="18">
+    Swift: 2.8%
+    </text>
+    </svg>
