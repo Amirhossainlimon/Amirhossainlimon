@@ -1,33 +1,235 @@
 
-<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
 
-<rect width="100%" height="100%" fill="#0d1117"/>
+<svg width="600" height="360"
+xmlns="http://www.w3.org/2000/svg">
 
-<text x="30" y="40" fill="white" font-size="24">
+
+<style>
+
+.title{
+font-family:Arial;
+font-size:24px;
+font-weight:bold;
+fill:white;
+}
+
+
+.text{
+font-family:Arial;
+font-size:18px;
+fill:white;
+}
+
+
+.bar{
+
+animation:grow 2s ease;
+
+}
+
+
+@keyframes grow{
+
+from{
+width:0;
+}
+
+to{
+width:100%;
+}
+
+}
+
+
+</style>
+
+
+
+<rect width="100%" height="100%" rx="20" fill="#0d1117"/>
+
+
+
+<text x="30" y="45" class="title">
+
 🔥 Most Used Languages
+
 </text>
 
-    <text x="30" y="80" fill="white" font-size="18">
-    C++: 40.4%
-    </text>
-    
-    <text x="30" y="115" fill="white" font-size="18">
-    CMake: 29.5%
-    </text>
-    
-    <text x="30" y="150" fill="white" font-size="18">
-    Dart: 18.1%
-    </text>
-    
-    <text x="30" y="185" fill="white" font-size="18">
-    HTML: 3.2%
-    </text>
-    
-    <text x="30" y="220" fill="white" font-size="18">
-    Java: 2.8%
-    </text>
-    
-    <text x="30" y="255" fill="white" font-size="18">
-    Swift: 2.8%
-    </text>
-    </svg>
+
+
+
+<text x="30" y="90" class="text">
+
+C++ - 40.3%
+
+</text>
+
+
+<rect
+
+x="220"
+
+y="72"
+
+height="16"
+
+width="161.2"
+
+rx="8"
+
+fill="#02569B"
+
+class="bar"
+
+/>
+
+
+
+
+
+<text x="30" y="135" class="text">
+
+CMake - 29.5%
+
+</text>
+
+
+<rect
+
+x="220"
+
+y="117"
+
+height="16"
+
+width="118.0"
+
+rx="8"
+
+fill="#02569B"
+
+class="bar"
+
+/>
+
+
+
+
+
+<text x="30" y="180" class="text">
+
+Dart - 18.1%
+
+</text>
+
+
+<rect
+
+x="220"
+
+y="162"
+
+height="16"
+
+width="72.4"
+
+rx="8"
+
+fill="#02569B"
+
+class="bar"
+
+/>
+
+
+
+
+
+<text x="30" y="225" class="text">
+
+HTML - 3.2%
+
+</text>
+
+
+<rect
+
+x="220"
+
+y="207"
+
+height="16"
+
+width="12.8"
+
+rx="8"
+
+fill="#02569B"
+
+class="bar"
+
+/>
+
+
+
+
+
+<text x="30" y="270" class="text">
+
+Java - 2.8%
+
+</text>
+
+
+<rect
+
+x="220"
+
+y="252"
+
+height="16"
+
+width="11.2"
+
+rx="8"
+
+fill="#02569B"
+
+class="bar"
+
+/>
+
+
+
+
+
+<text x="30" y="315" class="text">
+
+Swift - 2.8%
+
+</text>
+
+
+<rect
+
+x="220"
+
+y="297"
+
+height="16"
+
+width="11.2"
+
+rx="8"
+
+fill="#02569B"
+
+class="bar"
+
+/>
+
+
+
+
+</svg>
+
