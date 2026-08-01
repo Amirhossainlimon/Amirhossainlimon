@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+Developer;Dart+Developer;Firebase+Enthusiast;REST+API+Integration;GetX+%26+Provider+User;Building+Beautiful+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+Developer;Dart+Developer;Firebase+Enthusiast;REST+API+Integration;GetX+%26+Provider+User;Building+Beautiful+Apps"/>
 </p>
 
 
@@ -19,12 +19,12 @@
 ## 🚀 About Me
 
 
-```dart
+dart
 class FlutterDeveloper {
 
   String name = "Amir Hossain Limon";
 
-  String profession = "Flutter Developer";
+  String role = "Flutter Developer";
 
   List<String> skills = [
     "Flutter",
@@ -35,7 +35,61 @@ class FlutterDeveloper {
     "Provider"
   ];
 
-  String goal =
-      "Building modern, scalable and beautiful mobile applications";
+  String passion =
+      "Building modern and scalable mobile applications";
 
 }
+🛠️ Tools & Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,git,github,figma,postman,mysql,c,cpp&perline=7"/> </p> <p align="center"> <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/CodeBlocks-0A66C2?style=for-the-badge&logo=cplusplus&logoColor=white"/> </p>
+📱 Flutter Projects
+Project	Description
+🚀 BMI Calculator App	Flutter UI + Logic
+💬 Chat Application UI	Modern Messaging Interface
+📝 Flashcard Quiz App	Interactive Quiz Application
+📖 Quote Vault App	Quote Management App
+✈️ Travel UI App	Responsive Flutter UI
+🛒 E-Commerce UI	Shopping App Design
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true"/> </p>
+🔥 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🐍 Contribution Snake Animation
+<p align="center"> <img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg"/> </p>
+💻 Development Setup
+Mobile Development:
+  - Flutter
+  - Dart
+  - Firebase
+  - REST API
+
+State Management:
+  - GetX
+  - Provider
+
+IDE:
+  - Android Studio
+  - VS Code
+  - CodeBlocks
+
+Programming Language:
+  - Java
+  - C
+  - C++
+
+Tools:
+  - Git
+  - GitHub
+  - Postman
+  - Figma
+
+Database:
+  - MySQL
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/Amirhossainlimon"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="https://myportfolio-nine-tau-24.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5C22?style=for-the-badge&logo=vercel"/> </a> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amirhossainlimon&label=Profile%20Views&color=blue&style=for-the-badge"/> </p>
+<h3 align="center">
+
+⭐ Code • Create • Learn • Repeat ⭐
+
+</h3> ```
