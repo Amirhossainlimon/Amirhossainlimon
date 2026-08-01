@@ -67,7 +67,7 @@ class FlutterDeveloper {
 
 <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white"/>
 
 </p>
 
