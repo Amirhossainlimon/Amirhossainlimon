@@ -144,12 +144,11 @@ Database:
 
 ---
 
-# 🔥 Most Used Languages
+## 🔥 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="./assets/languages.svg" width="500"/>
 </p>
----
 
 
 # 🐍 Contribution Snake Animation
