@@ -129,18 +129,13 @@ Database:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Amirhossainlimon&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
 ---
 
 ## 🔥 Most Used Languages
@@ -174,7 +169,7 @@ Database:
 </a>
 
 
-<a href="https://myportfolio-nine-tau-24.vercel.app/">
+<a href="https://myportfolio-qj89.vercel.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-FF5C22?style=for-the-badge&logo=vercel"/>
 
