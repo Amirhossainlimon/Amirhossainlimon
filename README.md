@@ -121,8 +121,26 @@ Tools:
 Database:
   - MySQL
 ```
-##Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight)
+### 📊 GitHub Statistics
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amir Hossain Limon's GitHub Stats" width="49%" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="49%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
 
 ## 🔥 Most Used Languages
 
