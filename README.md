@@ -123,21 +123,9 @@ Database:
 ```
 
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true"/>
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 
