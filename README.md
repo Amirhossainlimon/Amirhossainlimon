@@ -121,15 +121,15 @@ Tools:
 Database:
   - MySQL
 ```
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amir Hossain Limon's GitHub Stats" width="49%" />
+  <!-- Mirror Server Link (যাতে API Limit এরর না আসে) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amir Hossain Limon's GitHub Stats" width="49%" />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="49%" />
 
 </div>
 
@@ -137,11 +137,10 @@ Database:
 
 <div align="center">
 
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Working Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=Amirhossainlimon&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
-
 ## 🔥 Most Used Languages
 
 <p align="center">
