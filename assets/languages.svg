@@ -118,7 +118,7 @@ class="bar"
 
 <text x="30" y="180" class="text">
 
-Dart - 18.2%
+Dart - 18.1%
 
 </text>
 
@@ -131,7 +131,7 @@ y="162"
 
 height="16"
 
-width="72.8"
+width="72.4"
 
 rx="8"
 
@@ -176,7 +176,7 @@ class="bar"
 
 <text x="30" y="270" class="text">
 
-Java - 2.8%
+Swift - 2.8%
 
 </text>
 
@@ -205,7 +205,7 @@ class="bar"
 
 <text x="30" y="315" class="text">
 
-Swift - 2.8%
+Java - 2.8%
 
 </text>
 
