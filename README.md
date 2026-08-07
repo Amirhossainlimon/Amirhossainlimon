@@ -128,9 +128,6 @@ Database:
   <!-- Mirror Server Link (যাতে API Limit এরর না আসে) -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amir Hossain Limon's GitHub Stats" width="49%" />
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="49%" />
-
 </div>
 
 <br />
