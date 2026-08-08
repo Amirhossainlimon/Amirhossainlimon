@@ -60,7 +60,7 @@ width:100%;
 
 <text x="30" y="90" class="text">
 
-C++ - 33.6%
+C++ - 33.8%
 
 </text>
 
@@ -73,7 +73,7 @@ y="72"
 
 height="16"
 
-width="134.4"
+width="135.2"
 
 rx="8"
 
@@ -89,7 +89,7 @@ class="bar"
 
 <text x="30" y="135" class="text">
 
-CMake - 24.6%
+CMake - 24.8%
 
 </text>
 
@@ -102,7 +102,7 @@ y="117"
 
 height="16"
 
-width="98.4"
+width="99.2"
 
 rx="8"
 
@@ -118,7 +118,7 @@ class="bar"
 
 <text x="30" y="180" class="text">
 
-Dart - 17.7%
+Dart - 17.6%
 
 </text>
 
@@ -131,7 +131,7 @@ y="162"
 
 height="16"
 
-width="70.8"
+width="70.4"
 
 rx="8"
 
@@ -147,7 +147,7 @@ class="bar"
 
 <text x="30" y="225" class="text">
 
-JavaScript - 14.2%
+JavaScript - 14.0%
 
 </text>
 
@@ -160,7 +160,7 @@ y="207"
 
 height="16"
 
-width="56.8"
+width="56.0"
 
 rx="8"
 
