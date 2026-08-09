@@ -126,19 +126,13 @@ Database:
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true" />
 
 </p>
 
-
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirhossainlimon&theme=tokyonight"/>
 </p>
 
 # 🐍 Contribution Snake Animation
