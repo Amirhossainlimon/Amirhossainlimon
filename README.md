@@ -121,29 +121,29 @@ Tools:
 Database:
   - MySQL
 ```
+
+
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-  <!-- Mirror Server Link (যাতে API Limit এরর না আসে) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amir Hossain Limon's GitHub Stats" width="49%" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <!-- Working Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=Amirhossainlimon&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-## 🔥 Most Used Languages
-
 <p align="center">
-<img src="./assets/languages.svg" width="500"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </p>
 
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 # 🐍 Contribution Snake Animation
 
