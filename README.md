@@ -1,18 +1,38 @@
-# 👋 Hi, I'm Amir Hossain Limon
+<h1 align="center">👋 Hi, I'm Amir Hossain Limon</h1>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/coding.gif">
+<h3 align="center">
+🚀 Flutter Developer | Mobile App Developer | CSE Student
+</h3>
+
+
+<p align="center">
+  <img src="assets/profile-cartoon.png" width="400"/>
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+Developer;Dart+Developer;Firebase+Enthusiast;REST+API+Integration;GetX+%26+Provider+User;Building+Beautiful+Apps"/>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night"/>
+</p>
+
+
+---
 
 ## 🚀 About Me
+
+
+```dart
 class FlutterDeveloper {
 
   String name = "Amir Hossain Limon";
 
   String role = "Flutter Developer";
 
-  String currentStatus =
-      "CSE Student & Open Source Enthusiast";
-
-  List<String> coreSkills = [
+  List<String> skills = [
     "Flutter",
     "Dart",
     "Firebase",
@@ -22,94 +42,59 @@ class FlutterDeveloper {
   ];
 
   String passion =
-      "Building modern, high-performance, and scalable cross-platform mobile applications.";
+      "Building modern and scalable mobile applications";
 
-  void codeEveryday() {
-    print("Code • Create • Learn • Repeat");
-  }
 }
+```
+
+
+# 🛠️ Tools & Technologies
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,git,github,figma,postman,mysql,c,cpp&perline=7"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+
+</p>
+
 
 ---
 
-## 💫 About Me
-
-- 🎓 Computer Science & Engineering (CSE) Student
-- 📱 Flutter Developer
-- 🚀 Building modern cross-platform mobile applications
-- 🔥 Interested in Clean Architecture & Scalable Apps
-- 🌱 Learning Advanced Flutter Development
-- 💡 Problem Solving Enthusiast
-- 🤝 Open to Collaboration
-  ---
-
-# 🛠️ Skills & Technologies
-
-## 📱 Mobile Development
-
-- Flutter
-- Dart
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
-- REST API Integration
-- Responsive UI
+# 📱 Flutter Projects
 
 
-## 🏗️ State Management
-
-- GetX
-- Provider
-
-
-## 💻 Programming Languages
-
-- Java
-- C
-- C++
+| Project | Description |
+|---|---|
+| 🚀 BMI Calculator | Flutter UI + Logic |
+| 💬 Chat Application | Modern Chat UI |
+| 📝 Flashcard Quiz App | Interactive Quiz App |
+| 📖 Quote Vault | Quote Management App |
+| ✈️ Travel UI | Responsive Flutter Design |
+| 🛒 E-Commerce UI | Shopping App Design |
 
 
-## 🗄️ Database
-
-- Firebase Firestore
-- Firebase Realtime Database
-- SQLite
-- MySQL
-
-
-## 🧰 Tools
-
-- Android Studio
-- Visual Studio Code
-- Git & GitHub
-- Postman
-- Figma
-  ---
-
-# 📱 Featured Flutter Projects
-
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🚀 BMI Calculator | BMI calculation app | Flutter, Dart |
-| 💬 Chat Application | Real-time messaging app | Flutter, Firebase |
-| 📝 Flashcard Quiz App | Interactive quiz app | Flutter, GetX |
-| 📖 Quote Vault | Quote management app | Flutter, REST API |
-| ✈️ Travel UI Concept | Travel booking UI | Flutter |
-| 🛒 Trendify E-Commerce | Shopping app | Flutter, Provider, API |
 ---
 
-# 🏗️ Development Setup
+# 💻 Development Setup
 
 
 ```yaml
-Mobile:
-  Framework:
-    - Flutter
-
-  Language:
-    - Dart
-
-Backend:
+Mobile Development:
+  - Flutter
+  - Dart
   - Firebase
   - REST API
 
@@ -117,72 +102,98 @@ State Management:
   - GetX
   - Provider
 
-Tools:
+IDE:
   - Android Studio
   - VS Code
+  - CodeBlocks
+
+Programming:
+  - Java
+  - C
+  - C++
+
+Tools:
+  - Git
   - GitHub
   - Postman
   - Figma
 
----
+Database:
+  - MySQL
+```
+## 📊 GitHub Statistics
 
-## STEP 7: GitHub Stats
+<div align="center">
 
-তারপর:
+  <!-- Mirror Server Link (যাতে API Limit এরর না আসে) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amir Hossain Limon's GitHub Stats" width="49%" />
 
-```html
----
+</div>
 
-# 📊 GitHub Statistics
+<br />
 
+<div align="center">
+
+  <!-- Working Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=Amirhossainlimon&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+## 🔥 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight">
-
+<img src="./assets/languages.svg" width="500"/>
 </p>
 
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight">
-
-</p>
----
 
 # 🐍 Contribution Snake Animation
 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
+
 ---
 
 # 🌐 Connect With Me
 
 
-<p>
+<p align="center">
 
 <a href="https://github.com/Amirhossainlimon">
 
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 
 </a>
 
 
-<a href="https://linkedin.com">
+<a href="https://myportfolio-qj89.vercel.app/">
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/Portfolio-FF5C22?style=for-the-badge&logo=vercel"/>
 
 </a>
 
 </p>
+
 
 ---
 
 # 👀 Profile Views
 
 
-<img src="https://komarev.com/ghpvc/?username=Amirhossainlimon">
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Amirhossainlimon&style=for-the-badge"/>
+
+</p>
+
+
+---
+
+<h3 align="center">
+
+⭐ Code • Create • Learn • Repeat ⭐
+
+</h3>
