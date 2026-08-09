@@ -1,29 +1,11 @@
-<h1 align="center">👋 Hi, I'm Amir Hossain Limon</h1>
+# 👋 Hi, I'm Amir Hossain Limon
 
-<h3 align="center">
-🚀 Flutter Developer | Mobile App Developer | CSE Student
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Building+Modern+Apps" />
 
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-  <img src="assets/profile-cartoon.png" width="400"/>
-</p>
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+Developer;Dart+Developer;Firebase+Enthusiast;REST+API+Integration;GetX+%26+Provider+User;Building+Beautiful+Apps"/>
-</p>
-
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night"/>
-</p>
-
-
----
 
 ## 🚀 About Me
-
 
 ```dart
 class FlutterDeveloper {
@@ -42,56 +24,78 @@ class FlutterDeveloper {
   ];
 
   String passion =
-      "Building modern and scalable mobile applications";
+      "Building modern, scalable and user-friendly applications";
 
 }
-```
+<br>
+🔭 Currently working on Flutter Applications
+🌱 Learning Advanced Flutter Architecture
+💡 Interested in Mobile App Development & UI/UX
+⚡ Love solving problems with code
+🎯 Goal: Build production-level applications
+🛠️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,postman,mysql,java,c,cpp" /> </div>
+📱 Featured Flutter Projects
+<table> <tr> <td width="50%">
+🚀 BMI Calculator
 
+📌 Flutter UI + Business Logic
 
-# 🛠️ Tools & Technologies
+✨ Features:
 
+BMI calculation
+Clean UI
+Responsive design
+</td> <td width="50%">
+💬 Chat Application
 
-<p align="center">
+📌 Modern Chat Interface
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,java,git,github,figma,postman,mysql,c,cpp&perline=7"/>
+✨ Features:
 
-</p>
+Real-time UI
+Firebase Ready
+Modern design
+</td> </tr> <tr> <td width="50%">
+📝 Flashcard Quiz App
 
+📌 Interactive Learning App
 
-<p align="center">
+✨ Features:
 
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+Quiz system
+Score tracking
+Beautiful animations
+</td> <td width="50%">
+🛒 E-Commerce App
 
-<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
+📌 Shopping Application
 
-<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+✨ Features:
 
-<img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+Product listing
+Cart system
+API integration
+</td> </tr> <tr> <td width="50%">
+✈️ Travel UI
 
-</p>
+📌 Responsive Flutter Design
 
+✨ Features:
 
----
+Modern layouts
+Smooth animations
+</td> <td width="50%">
+📖 Quote Vault
 
-# 📱 Flutter Projects
+📌 Quote Management App
 
+✨ Features:
 
-| Project | Description |
-|---|---|
-| 🚀 BMI Calculator | Flutter UI + Logic |
-| 💬 Chat Application | Modern Chat UI |
-| 📝 Flashcard Quiz App | Interactive Quiz App |
-| 📖 Quote Vault | Quote Management App |
-| ✈️ Travel UI | Responsive Flutter Design |
-| 🛒 E-Commerce UI | Shopping App Design |
-
-
----
-
-# 💻 Development Setup
-
-
-```yaml
+Category system
+Favorite quotes
+</td> </tr> </table>
+💻 Development Environment
 Mobile Development:
   - Flutter
   - Dart
@@ -105,95 +109,68 @@ State Management:
 IDE:
   - Android Studio
   - VS Code
-  - CodeBlocks
 
 Programming:
   - Java
   - C
   - C++
 
+Database:
+  - MySQL
+  - Firebase Firestore
+
 Tools:
   - Git
   - GitHub
   - Postman
   - Figma
-
-Database:
-  - MySQL
-```
-## 📊 GitHub Statistics
-
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhossainlimon&theme=tokyonight&hide_border=true"/> </p>
+📈 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🐍 Contribution Snake Animation
+<p align="center"> <img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg"/> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/Amirhossainlimon"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a> </p>
+👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Amirhossainlimon&label=Profile%20Views&color=0e75b6&style=flat"/>
+⚡ Daily Motivation
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 <div align="center">
-
-  <!-- Mirror Server Link (যাতে API Limit এরর না আসে) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amir Hossain Limon's GitHub Stats" width="49%" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <!-- Working Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=Amirhossainlimon&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-## 🔥 Most Used Languages
-
-<p align="center">
-<img src="./assets/languages.svg" width="500"/>
-</p>
-
-
-# 🐍 Contribution Snake Animation
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
----
-
-# 🌐 Connect With Me
-
-
-<p align="center">
-
-<a href="https://github.com/Amirhossainlimon">
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-<a href="https://myportfolio-qj89.vercel.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-FF5C22?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-</p>
-
-
----
-
-# 👀 Profile Views
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Amirhossainlimon&style=for-the-badge"/>
-
-</p>
-
-
----
-
-<h3 align="center">
-
 ⭐ Code • Create • Learn • Repeat ⭐
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"> </div> ```
+Snake Animation কাজ করানোর জন্য .github/workflows/snake.yml বানাতে হবে:
+name: Generate Snake
 
-</h3>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+        with:
+
+          github_user_name: Amirhossainlimon
+
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+
+          build_dir: dist
+
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
