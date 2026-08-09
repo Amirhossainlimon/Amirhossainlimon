@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Amir+Hossain+Limon;🚀+Flutter+Developer;📱+Mobile+App+Developer;🎓+CSE+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Amir+Hossain+Limon;👋+Hi,+I'm+Amir+Hossain+Limon;👋+Hi,+I'm+Amir+Hossain+Limon" />
 </h1>
-
 
 <h3 align="center">
 🚀 Flutter Developer | 📱 Mobile App Developer | 🎓 CSE Student
