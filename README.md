@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Amir+Hossain+Limon;Amir+Hossain+Limon;Flutter+Developer;Mobile+App+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Amir+Hossain+Limon;🚀+Flutter+Developer;📱+Mobile+App+Developer;🎓+CSE+Student" />
 </h1>
 
 
@@ -9,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="assets/profile-cartoon.png" width="400"/>
+  <img src="assets/profile-cartoon.png" width="350"/>
 </p>
 
 
