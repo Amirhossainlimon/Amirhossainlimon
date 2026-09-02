@@ -50,7 +50,10 @@ class FlutterDeveloper {
     print("Keep Growing 🔥");
   }
 }
+---
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=800&color=00C853&center=true&vCenter=true&width=750&lines=💡+Learning+Every+Day;🚀+Building+Real+World+Projects;📱+Focused+on+Flutter+Development;🔥+Turning+Ideas+into+Applications" /> </p>
+---
+
 🛠️ Tech Stack
 📱 Mobile Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=4" /> </p>
@@ -120,14 +123,15 @@ Database:
 
 </p>
 🐍 Contribution Snake
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake-dark.svg" />
+<p align="center"> <picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake-dark.svg" />
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg" />
 
 <img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</picture>
 
-</p>
+</picture> </p>
 🏆 GitHub Achievements
 <p align="center">
 
