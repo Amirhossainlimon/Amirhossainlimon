@@ -194,9 +194,8 @@ Database:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true"/>
 </p>
-
 
 ---
 
@@ -207,7 +206,11 @@ Database:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" width="900" src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -215,7 +218,7 @@ Database:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 
 
