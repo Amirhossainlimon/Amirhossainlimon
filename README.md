@@ -189,15 +189,6 @@ Database:
   />
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -205,25 +196,9 @@ Database:
   <img src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" width="900" src="https://raw.githubusercontent.com/Amirhossainlimon/Amirhossainlimon/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</p>
 
 
 
----
 
 # 📊 GitHub Profile Summary
 
