@@ -173,20 +173,11 @@ Database:
 ```
 
 ---
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="Amir Hossain Limon's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Amir Hossain Limon's Top Languages"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p>
 
 ---
 
@@ -201,15 +192,9 @@ Database:
 
 ---
 
-# 📈 Contribution Graph
+📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true&area=true&custom_title=Amir's%20Contribution%20Graph"
-    width="95%"
-    alt="Amir Hossain Limon's Contribution Graph"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/> </p>
 
 ---
 
@@ -225,11 +210,9 @@ Database:
 
 ---
 
-# 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Achievements"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Achievements"/> </p>
 
 
 ---
@@ -270,7 +253,7 @@ Database:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://myportfolio-qj89.vercel.app/">
+<a href="https://amir-hossain-limon-16.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
