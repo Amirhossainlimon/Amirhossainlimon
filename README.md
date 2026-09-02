@@ -173,18 +173,18 @@ Database:
 ```
 
 ---
-📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     height="180"
-    alt="Amir's GitHub Stats"
+    alt="Amir Hossain Limon's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossainlimon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
-    alt="Top Languages"
+    alt="Amir Hossain Limon's Top Languages"
   />
 </p>
 
@@ -204,7 +204,11 @@ Database:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true&area=true&custom_title=Amir's%20Contribution%20Graph"
+    width="95%"
+    alt="Amir Hossain Limon's Contribution Graph"
+  />
 </p>
 
 ---
@@ -224,8 +228,9 @@ Database:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Achievements"/>
 </p>
+
 
 ---
 
