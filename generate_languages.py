@@ -8,7 +8,8 @@ token = os.getenv("GITHUB_TOKEN")
 
 
 headers = {
-    "Authorization": f"Bearer {token}"
+    "Authorization": f"Bearer {token}",
+    "Accept": "application/vnd.github+json"
 }
 
 
@@ -16,7 +17,6 @@ repos = requests.get(
     f"https://api.github.com/users/{username}/repos?per_page=100",
     headers=headers
 ).json()
-
 
 
 languages = {}
@@ -29,11 +29,14 @@ for repo in repos:
         headers=headers
     ).json()
 
-
     for lang, value in data.items():
+        languages[lang] = languages.get(lang, 0) + value
 
-        languages[lang] = languages.get(lang,0)+value
 
+
+if not languages:
+    print("No languages found")
+    exit()
 
 
 total = sum(languages.values())
@@ -41,64 +44,25 @@ total = sum(languages.values())
 
 top_languages = sorted(
     languages.items(),
-    key=lambda x:x[1],
+    key=lambda x: x[1],
     reverse=True
 )[:6]
 
 
 
 svg = """
-
 <svg width="600" height="360"
 xmlns="http://www.w3.org/2000/svg">
-
-
-<style>
-
-.title{
-font-family:Arial;
-font-size:24px;
-font-weight:bold;
-fill:white;
-}
-
-
-.text{
-font-family:Arial;
-font-size:18px;
-fill:white;
-}
-
-
-.bar{
-
-animation:grow 2s ease;
-
-}
-
-
-@keyframes grow{
-
-from{
-width:0;
-}
-
-to{
-width:100%;
-}
-
-}
-
-
-</style>
-
 
 
 <rect width="100%" height="100%" rx="20" fill="#0d1117"/>
 
 
-
-<text x="30" y="45" class="title">
+<text x="30" y="45"
+font-family="Arial"
+font-size="24"
+font-weight="bold"
+fill="white">
 
 🔥 Most Used Languages
 
@@ -110,12 +74,11 @@ width:100%;
 y = 90
 
 
-
 for lang,value in top_languages:
 
 
     percent = round(
-        (value/total)*100,
+        (value / total) * 100,
         1
     )
 
@@ -126,8 +89,11 @@ for lang,value in top_languages:
 
     svg += f"""
 
-
-<text x="30" y="{y}" class="text">
+<text x="30"
+y="{y}"
+font-family="Arial"
+font-size="18"
+fill="white">
 
 {lang} - {percent}%
 
@@ -136,24 +102,18 @@ for lang,value in top_languages:
 
 <rect
 
-x="220"
-
+x="230"
 y="{y-18}"
-
 height="16"
-
 width="{width}"
-
 rx="8"
 
 fill="#02569B"
 
-class="bar"
-
 />
 
-
 """
+
 
     y += 45
 
@@ -166,12 +126,10 @@ svg += """
 """
 
 
-
 os.makedirs(
     "assets",
     exist_ok=True
 )
-
 
 
 with open(
@@ -180,7 +138,6 @@ with open(
 ) as file:
 
     file.write(svg)
-
 
 
 print("Language SVG Generated Successfully")
