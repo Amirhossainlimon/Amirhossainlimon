@@ -173,12 +173,11 @@ Database:
 ```
 
 ---
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirhossainlimon&show_icons=true&theme=tokyonight" />
+  <img src="https://ghstats.dev/api/card?username=Amirhossainlimon&theme=tokyonight" />
 </p>
-
 ---
 
 <h2>🔥 GitHub Streak</h2>
@@ -192,9 +191,12 @@ Database:
 
 ---
 
-📈 Contribution Graph
+# 📈 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhossainlimon&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
@@ -210,9 +212,12 @@ Database:
 
 ---
 
-🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Achievements"/> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amirhossainlimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
 
 
 ---
