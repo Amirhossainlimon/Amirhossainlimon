@@ -49,7 +49,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-CMake - 24.6%
+CMake - 24.7%
 
 </text>
 
@@ -59,7 +59,7 @@ CMake - 24.6%
 x="230"
 y="117"
 height="16"
-width="98.4"
+width="98.8"
 rx="8"
 
 fill="#02569B"
@@ -74,7 +74,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-Dart - 19.7%
+Dart - 20.0%
 
 </text>
 
@@ -84,7 +84,7 @@ Dart - 19.7%
 x="230"
 y="162"
 height="16"
-width="78.8"
+width="80.0"
 rx="8"
 
 fill="#02569B"
@@ -99,7 +99,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-JavaScript - 12.6%
+JavaScript - 12.4%
 
 </text>
 
@@ -109,7 +109,7 @@ JavaScript - 12.6%
 x="230"
 y="207"
 height="16"
-width="50.4"
+width="49.6"
 rx="8"
 
 fill="#02569B"
