@@ -24,7 +24,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-C++ - 31.8%
+C++ - 30.9%
 
 </text>
 
@@ -34,7 +34,7 @@ C++ - 31.8%
 x="230"
 y="72"
 height="16"
-width="127.2"
+width="123.6"
 rx="8"
 
 fill="#02569B"
@@ -49,7 +49,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-CMake - 23.6%
+CMake - 23.0%
 
 </text>
 
@@ -59,7 +59,7 @@ CMake - 23.6%
 x="230"
 y="117"
 height="16"
-width="94.4"
+width="92.0"
 rx="8"
 
 fill="#02569B"
@@ -74,7 +74,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-Dart - 19.0%
+Dart - 18.8%
 
 </text>
 
@@ -84,7 +84,7 @@ Dart - 19.0%
 x="230"
 y="162"
 height="16"
-width="76.0"
+width="75.2"
 rx="8"
 
 fill="#02569B"
@@ -99,7 +99,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-JavaScript - 11.4%
+JavaScript - 10.7%
 
 </text>
 
@@ -109,7 +109,7 @@ JavaScript - 11.4%
 x="230"
 y="207"
 height="16"
-width="45.6"
+width="42.8"
 rx="8"
 
 fill="#02569B"
@@ -124,7 +124,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-Blade - 3.1%
+HTML - 5.6%
 
 </text>
 
@@ -134,7 +134,7 @@ Blade - 3.1%
 x="230"
 y="252"
 height="16"
-width="12.4"
+width="22.4"
 rx="8"
 
 fill="#02569B"
@@ -149,7 +149,7 @@ font-family="Arial"
 font-size="18"
 fill="white">
 
-HTML - 2.6%
+Blade - 2.9%
 
 </text>
 
@@ -159,7 +159,7 @@ HTML - 2.6%
 x="230"
 y="297"
 height="16"
-width="10.4"
+width="11.6"
 rx="8"
 
 fill="#02569B"
